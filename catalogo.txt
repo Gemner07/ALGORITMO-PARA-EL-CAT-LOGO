@@ -1,0 +1,8 @@
+P001;Arroz extra 5 kg;25;24.90
+P002;Aceite vegetal 1 L;8;10.50
+P003;Leche evaporada 400 g;34;4.80
+P004;Azúcar rubia 1 kg;7;4.20
+P005;Atún en conserva 170 g;15;6.90
+P006;Fideos spaghetti 500 g;22;3.80
+P007;Galletas de soda;6;3.20
+P008;Detergente 900 g;12;11.90
